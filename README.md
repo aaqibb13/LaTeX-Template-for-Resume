@@ -1,3 +1,5 @@
+![GitHub language count](https://img.shields.io/github/languages/count/aaqibb13/Resume?color=brightgreen)
+
 This was adapted from the template [here](https://github.com/sb2nov/resume), with some modifications to design, the code, and ability to get up and running.
 
 # Usage
@@ -8,12 +10,7 @@ You can also modify the colour scheme (primary, secondary, accent, and link colo
 
 # Header
 
-Change the variables at the top of the document, and then modify the order you want to present your info in the `\headertype{}{}{}{}{}{}` argument at the beginning of the document. You can choose `\doublecol` or `\singlecol`. They look like this:
-
-![](/assets/singlecolheader.svg)
-![](/assets/doublecolheader.svg)
-
-Single column probably handles longer links better. Full previews at the [preview](#preview) section.
+Change the variables at the top of the document, and then modify the order you want to present your info in the `\headertype{}{}{}{}{}{}` argument at the beginning of the document. You can choose `\doublecol` or `\singlecol`.
 
 # Section
 
@@ -44,14 +41,14 @@ Preceed it by `\resumeItemListStart` and end it with `\resumeItemListEnd`. Each 
 
 # Preview
 
-## Double Column
+## Resume Header
 
-![](/assets/doublecolfull.svg)
+![](/Resumeheader.png)
 
-## Single Column
+## Resume Preview
 
-![](/assets/singlecolfull.svg)
+![](Resume.png)
 
 # Credits
 
-Original template from [here](https://github.com/sb2nov/resume).
+Modified template of [here](https://github.com/sb2nov/resume).
