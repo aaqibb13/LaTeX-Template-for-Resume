@@ -1,4 +1,4 @@
-![GitHub language count](https://img.shields.io/github/languages/count/aaqibb13/Resume?color=brightgreen)
+![GitHub language count](https://img.shields.io/github/languages/count/aaqibb13/Resume?color=brightgreen) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aaqibb13/LaTeX-Template-for-Resume) ![GitHub repo size](https://img.shields.io/github/repo-size/aaqibb13/LaTeX-Template-for-Resume)
 
 This was adapted from the template [here](https://github.com/sb2nov/resume), with some modifications to design, the code, and ability to get up and running.
 
