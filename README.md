@@ -51,4 +51,4 @@ Preceed it by `\resumeItemListStart` and end it with `\resumeItemListEnd`. Each 
 
 # Credits
 
-Modified template of [here](https://github.com/sb2nov/resume).
+Modified template from [here](https://github.com/sb2nov/resume).
