@@ -5,7 +5,6 @@ This was adapted from the template [here](https://github.com/sb2nov/resume), wit
 # Usage:
 
 There are 5 distinct components: header, sections, entry type 1 (title, subheading, date(s), location), entry type 2 (title, date(s)), and entry type 3 (single list no bullet, with a bold prefix). 
-
 You can also modify the colour scheme (primary, secondary, accent, and link colours).
 
 # Header:
@@ -51,4 +50,4 @@ Preceed it by `\resumeItemListStart` and end it with `\resumeItemListEnd`. Each 
 
 # Acknowledgements:
 
-Modified template from [here](https://github.com/sb2nov/resume).
+Modified template from [here](https://github.com/sb2nov/resume)
