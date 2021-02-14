@@ -42,7 +42,7 @@ Preceed it by `\resumeItemListStart` and end it with `\resumeItemListEnd`. Each 
 
 ## Resume Header:
 
-![](/Resumeheader.png)
+![](Resumeheader.png)
 
 ## Resume Preview:
 
