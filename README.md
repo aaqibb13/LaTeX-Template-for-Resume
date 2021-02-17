@@ -22,15 +22,15 @@ Change the variables at the top of the document, and then modify the order you w
 
 Preceed it by `\resumeEntryStart` and end it with `\resumeEntryEnd`.
 
-## Entry type 1:
+### Entry type 1:
 
 `\resumeEntryTSDL{Title}{Date(s)}{Subheading}{Location}`
 
-## Entry type 2:
+### Entry type 2:
 
 `\resumeEntryTD{Title}{Date(s)}`
 
-## Entry type 3:
+### Entry type 3:
 
 `\resumeEntryS{Bold}{RegularText}`
 
@@ -40,11 +40,11 @@ Preceed it by `\resumeItemListStart` and end it with `\resumeItemListEnd`. Each 
 
 # Preview:
 
-## Resume Header:
+### Resume Header:
 
 ![](Resumeheader.png)
 
-## Resume Preview:
+### Resume Preview:
 
 ![](Resume.png)
 
