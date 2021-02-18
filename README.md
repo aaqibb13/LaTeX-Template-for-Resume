@@ -15,7 +15,7 @@ Change the variables at the top of the document, and then modify the order you w
 
 `\section{<icon>}{Text}`
 
-<icon> can be anything; fontawesome icons are great.
+<icon> can be anything; however, fontawesome icons are great.
 
 
 # Entry:
